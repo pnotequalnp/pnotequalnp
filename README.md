@@ -1,3 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pnotequalnp&theme=material-palenight&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnotequalnp&layout=compact&theme=material-palenight&langs_count=8&hide=Shell,Vim%20script" />
+</a>
+
 ### About Me
 I'm a senior in university, studying math and CS. I'm particularly interested in abstract algebra, type theory, graph theory, and category theory and how they can be applied practically to solve difficult problems in programming. I feel pretty comfortable writing code in a variety of languages, and always love learning more. I daily drive Linux. I'm currently using NixOS, which has been working fantastically. My preferred editor is Emacs.
 
